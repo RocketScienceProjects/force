@@ -28,5 +28,14 @@
         <members>*</members>
         <name>ApexComponent</name>
     </types>
+    <types>
+        <members>standard__AppLauncher</members>
+        <members>standard__Chatter</members>
+        <name>CustomApplication</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>AppMenu</name>
+    </types>
     <version>38.0</version>
 </Package>
