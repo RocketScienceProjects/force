@@ -6,11 +6,13 @@
     </types>
     <types>
         <members>*</members>
-        <name>ApexClass</name>
+        <name>AppMenu</name>
     </types>
     <types>
-        <members>*</members>
-        <name>AppMenu</name>
+        <members>firstClass</members>
+        <members>nice</members>
+        <members>test</members>
+        <name>ApexClass</name>
     </types>
     <version>38.0</version>
 </Package>
