@@ -12,6 +12,8 @@
         <members>firstClass</members>
         <members>nice</members>
         <members>test</members>
+        <members>c1</members>
+        <members>dev1</members>
         <name>ApexClass</name>
     </types>
     <version>38.0</version>
