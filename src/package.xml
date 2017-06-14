@@ -9,15 +9,13 @@
         <name>AppMenu</name>
     </types>
     <types>
-        <members>firstClass</members>
-        <members>nice</members>
-        <members>test</members>
-        <members>dev1</members>
-        <name>ApexClass</name>
-    </types>
-    <types>
         <members>*</members>
         <name>CustomObject</name>
+    </types>
+    <types>
+        <members>nice</members>
+        <members>test</members>
+        <name>ApexClass</name>
     </types>
     <version>38.0</version>
 </Package>
