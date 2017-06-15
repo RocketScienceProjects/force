@@ -12,7 +12,7 @@
         <name>AppMenu</name>
     </types>
     <types>
-        <members>*</members>
+        <members>test</members>
         <name>ApexClass</name>
     </types>
     <version>38.0</version>
